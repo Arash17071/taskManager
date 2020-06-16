@@ -1,0 +1,42 @@
+body {
+    font-family: 'Byekan' !important;
+    /* font-size: 20px; */
+    text-align: center;
+    direction: rtl;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 700px;
+    background-image: url("./Nav001.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+.masthead2 {
+    /* height: 10vh;
+    min-height: 700px; */
+    background-image: url("../src/profil-pictures/bookmarks001.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+.navtog{
+    border-color:white !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("./arrow001.png") !important;
+}
+
+
+
+#myform {
+    text-align: right !important;
+}
